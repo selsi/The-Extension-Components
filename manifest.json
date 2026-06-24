@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tunisian Geo-Phonetic NLP Assistant",
   "version": "1.0",
-  "description": "إضافة ذكية لإيقاف فيديوهات يوتيوب وتيكتوك وتفسير المصطلحات اللسانية والبيئية التونسية.",
+  "description": "إضافة ذكية ومتطورة لإيقاف فيديوهات يوتيوب وتيكتوك تلقائياً وتفسير المصطلحات اللسانية والبيئية التونسية.",
   "permissions": [
     "activeTab",
     "scripting"
@@ -13,8 +13,7 @@
         "*://*://*",
         "*://*://*"
       ],
-      "js": ["content.js"],
-      "css": ["style.css"]
+      "js": ["content.js"]
     }
   ]
 }
